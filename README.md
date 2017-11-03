@@ -1,7 +1,5 @@
-FooCoin (FOO)
+GAMACOIN(GAMA)
 ===========
+http://gamacoin.ga
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
-
-
-Scrypt Hashcash PoW Template
+Gamacoin: The New Cryptocurrency from Anil Baki DURMUS
